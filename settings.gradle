@@ -1,0 +1,11 @@
+rootProject.name = 'kotlin-demo2'
+
+
+def initMinshengGradleEnvironment(){
+    println"initialize Minsheng Gradle Environment ....."
+    // 干一些 special 的私活....
+    println"initialize Minsheng Gradle Environment completes..."
+}
+initMinshengGradleEnvironment()
+
+

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55b96397-772a-42dd-aa75-643b704f8e27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-demo2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-demo2" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-demo2" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-demo2" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-demo2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="kotlin-demo2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin Interface" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/kotlin-demo2" />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Develop\Repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ucoQZmgngfiwXeTcbvi7luYnEs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.46896553" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.xudh.demo.enums" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="com.xudh.demo.proxy.dynamic.test" />
+      <recent name="com.xudh.demo.design.abstractFactory" />
+      <recent name="com.xudh.demo.design.factory" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.xudh.demo.proxy.async" />
+      <recent name="com.xudh.demo.proxy.exception" />
+      <recent name="com.xudh.demo.design.abstractFactory" />
+      <recent name="com.xudh.demo.generic" />
+      <recent name="com.xudh.demo.type" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\myprojects\kotlin-demo2\src\main\kotlin\com\xudh\demo\basic" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\myprojects\kotlin-demo2\src\main\kotlin\com\xudh\demo\proxy\dynamic\test" />
+      <recent name="E:\myprojects\kotlin-demo2\src\main\kotlin\com\xudh\demo\proxy\static" />
+      <recent name="E:\myprojects\kotlin-demo2\src\main\kotlin\com\xudh\demo\proxy\dynamic" />
+      <recent name="E:\myprojects\kotlin-demo2\src\main\kotlin\com\xudh\demo\proxy\async" />
+      <recent name="E:\myprojects\kotlin-demo2\src\main\kotlin\com\xudh\demo\ClazzAndInterface" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xudh.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.com.xudh.demo.TestKt">
+    <configuration name="com.xudh.demo.TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-demo2.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.xudh.demo.TestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.xudh.demo.design.prototype.TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-demo2.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.xudh.demo.design.prototype.TestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.xudh.demo.git.objects.GenerationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-demo2.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.xudh.demo.git.objects.GenerationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.xudh.demo.jgit.BranchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-demo2.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.xudh.demo.jgit.BranchKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.xudh.demo.jgit.TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-demo2.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.xudh.demo.jgit.TestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.com.xudh.demo.design.prototype.TestKt" />
+      <item itemvalue="Kotlin.com.xudh.demo.git.objects.GenerationKt" />
+      <item itemvalue="Kotlin.com.xudh.demo.TestKt" />
+      <item itemvalue="Kotlin.com.xudh.demo.jgit.BranchKt" />
+      <item itemvalue="Kotlin.com.xudh.demo.jgit.TestKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.xudh.demo.TestKt" />
+        <item itemvalue="Kotlin.com.xudh.demo.jgit.TestKt" />
+        <item itemvalue="Kotlin.com.xudh.demo.jgit.BranchKt" />
+        <item itemvalue="Kotlin.com.xudh.demo.git.objects.GenerationKt" />
+        <item itemvalue="Kotlin.com.xudh.demo.design.prototype.TestKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55b96397-772a-42dd-aa75-643b704f8e27" name="Default Changelist" comment="" />
+      <created>1624974222474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624974222474</updated>
+      <workItem from="1624974227074" duration="8485000" />
+      <workItem from="1625017278776" duration="18728000" />
+      <workItem from="1625102546131" duration="16493000" />
+      <workItem from="1625188015550" duration="9166000" />
+      <workItem from="1625295970426" duration="595000" />
+      <workItem from="1625447552166" duration="6553000" />
+      <workItem from="1625491425658" duration="624000" />
+      <workItem from="1625533386070" duration="1030000" />
+      <workItem from="1625623987362" duration="17410000" />
+      <workItem from="1625754409821" duration="978000" />
+      <workItem from="1625792366979" duration="1194000" />
+      <workItem from="1626052138532" duration="6770000" />
+      <workItem from="1626138449725" duration="1155000" />
+      <workItem from="1626139951677" duration="4433000" />
+      <workItem from="1626248583234" duration="1874000" />
+      <workItem from="1626313339066" duration="604000" />
+      <workItem from="1626335682253" duration="1619000" />
+      <workItem from="1626397660364" duration="23415000" />
+      <workItem from="1626616781871" duration="8755000" />
+      <workItem from="1626656892417" duration="18456000" />
+      <workItem from="1626744597969" duration="4737000" />
+      <workItem from="1626829983966" duration="2723000" />
+      <workItem from="1627007445255" duration="3122000" />
+      <workItem from="1627279805685" duration="2431000" />
+      <workItem from="1627885831248" duration="3198000" />
+      <workItem from="1628059570794" duration="1323000" />
+      <workItem from="1628836392467" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2395" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625037833754">
+      <screen x="2160" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2395" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1625037833754" />
+    <state x="176" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1624974322036" />
+    <state x="447" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624974256138">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="447" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920@0.0.1440.920" timestamp="1624974256138" />
+    <state x="895" y="-841" key="#com.intellij.ide.util.MemberChooser" timestamp="1625642511279">
+      <screen x="143" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="564" y="211" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920/143.-1080.1920.1040@0.0.1440.920" timestamp="1625447991684" />
+    <state x="895" y="-841" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920/143.-1080.1920.1040@143.-1080.1920.1040" timestamp="1625642511279" />
+    <state x="2912" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1625040908243" />
+    <state x="2835" y="196" key="#com.xudh.demo.ArithmeticKt" timestamp="1625037768786">
+      <screen x="2160" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2835" y="196" key="#com.xudh.demo.ArithmeticKt/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1625037768786" />
+    <state x="500" y="107" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1626085260863">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="500" y="107" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1440.920/128.-1080.1920.1040@0.0.1440.920" timestamp="1626085260863" />
+    <state x="500" y="107" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1440.920/143.-1080.1920.1040@0.0.1440.920" timestamp="1625624386605" />
+    <state x="501" y="205" key="FileChooserDialogImpl" timestamp="1627887210773">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="205" key="FileChooserDialogImpl/0.0.1440.920/128.-1080.1920.1040@0.0.1440.920" timestamp="1627887210773" />
+    <state x="501" y="205" key="FileChooserDialogImpl/0.0.1440.920/143.-1080.1920.1040@0.0.1440.920" timestamp="1625626029555" />
+    <state x="811" y="-848" key="FileChooserDialogImpl/0.0.1440.920/143.-1080.1920.1040@143.-1080.1920.1040" timestamp="1625629886103" />
+    <state x="501" y="205" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1624974351671" />
+    <state width="1397" height="179" key="GridCell.Tab.0.bottom" timestamp="1627036153464">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="179" key="GridCell.Tab.0.bottom/0.0.1440.920/128.-1080.1920.1040@0.0.1440.920" timestamp="1627036153464" />
+    <state width="1877" height="210" key="GridCell.Tab.0.bottom/0.0.1440.920/128.-1080.1920.1040@128.-1080.1920.1040" timestamp="1626260012775" />
+    <state width="1397" height="211" key="GridCell.Tab.0.bottom/0.0.1440.920/143.-1080.1920.1040@0.0.1440.920" timestamp="1625626526207" />
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1440.920/143.-1080.1920.1040@143.-1080.1920.1040" timestamp="1625653259116" />
+    <state width="1877" height="247" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1625110188101" />
+    <state width="1397" height="179" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1627007537604" />
+    <state width="1397" height="179" key="GridCell.Tab.0.center" timestamp="1627036153464">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="179" key="GridCell.Tab.0.center/0.0.1440.920/128.-1080.1920.1040@0.0.1440.920" timestamp="1627036153464" />
+    <state width="1877" height="210" key="GridCell.Tab.0.center/0.0.1440.920/128.-1080.1920.1040@128.-1080.1920.1040" timestamp="1626260012775" />
+    <state width="1397" height="211" key="GridCell.Tab.0.center/0.0.1440.920/143.-1080.1920.1040@0.0.1440.920" timestamp="1625626526207" />
+    <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1440.920/143.-1080.1920.1040@143.-1080.1920.1040" timestamp="1625653259116" />
+    <state width="1877" height="247" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1625110188101" />
+    <state width="1397" height="179" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1627007537604" />
+    <state width="1397" height="179" key="GridCell.Tab.0.left" timestamp="1627036153464">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="179" key="GridCell.Tab.0.left/0.0.1440.920/128.-1080.1920.1040@0.0.1440.920" timestamp="1627036153464" />
+    <state width="1877" height="210" key="GridCell.Tab.0.left/0.0.1440.920/128.-1080.1920.1040@128.-1080.1920.1040" timestamp="1626260012775" />
+    <state width="1397" height="211" key="GridCell.Tab.0.left/0.0.1440.920/143.-1080.1920.1040@0.0.1440.920" timestamp="1625626526207" />
+    <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1440.920/143.-1080.1920.1040@143.-1080.1920.1040" timestamp="1625653259116" />
+    <state width="1877" height="247" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1625110188100" />
+    <state width="1397" height="179" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1627007537603" />
+    <state width="1397" height="179" key="GridCell.Tab.0.right" timestamp="1627036153464">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="179" key="GridCell.Tab.0.right/0.0.1440.920/128.-1080.1920.1040@0.0.1440.920" timestamp="1627036153464" />
+    <state width="1877" height="210" key="GridCell.Tab.0.right/0.0.1440.920/128.-1080.1920.1040@128.-1080.1920.1040" timestamp="1626260012775" />
+    <state width="1397" height="258" key="GridCell.Tab.0.right/0.0.1440.920/143.-1080.1920.1040@0.0.1440.920" timestamp="1625626526265" />
+    <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1440.920/143.-1080.1920.1040@143.-1080.1920.1040" timestamp="1625653259116" />
+    <state width="1877" height="247" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1625110188101" />
+    <state width="1397" height="179" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1627007537604" />
+    <state x="137" y="76" key="SettingsEditor" timestamp="1625625511199">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="137" y="76" key="SettingsEditor/0.0.1440.920/143.-1080.1920.1040@0.0.1440.920" timestamp="1625625511199" />
+    <state x="224" y="76" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1624974832456" />
+    <state x="809" y="-819" width="561" height="524" key="StructurePopup" timestamp="1626418302182">
+      <screen x="128" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="809" y="-819" width="561" height="524" key="StructurePopup/0.0.1440.920/128.-1080.1920.1040@128.-1080.1920.1040" timestamp="1626418302182" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1626619131207">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1440.920/128.-1080.1920.1040@128.-1080.1920.1040" timestamp="1626416902988" />
+    <state width="498" height="398" key="SwitcherDM/0.0.1440.920@0.0.1440.920" timestamp="1626619131207" />
+    <state x="770" y="-938" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1626406415597">
+      <screen x="128" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="770" y="-938" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.920/128.-1080.1920.1040@128.-1080.1920.1040" timestamp="1626406415597" />
+    <state x="874" y="-842" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1625212242252">
+      <screen x="143" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="874" y="-842" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.920/143.-1080.1920.1040@143.-1080.1920.1040" timestamp="1625212242252" />
+    <state width="88" height="37" key="documentation.popup.size" timestamp="1626425333446">
+      <screen x="128" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="88" height="37" key="documentation.popup.size/0.0.1440.920/128.-1080.1920.1040@128.-1080.1920.1040" timestamp="1626425333446" />
+    <state x="412" y="215" width="618" height="491" key="find.popup" timestamp="1628059687439">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="412" y="215" width="618" height="491" key="find.popup/0.0.1440.920/128.-1080.1920.1040@0.0.1440.920" timestamp="1628059687439" />
+    <state x="677" y="-837" width="824" height="556" key="find.popup/0.0.1440.920/128.-1080.1920.1040@128.-1080.1920.1040" timestamp="1626401117324" />
+    <state x="412" y="215" width="617" height="490" key="find.popup/0.0.1440.920/143.-1080.1920.1040@0.0.1440.920" timestamp="1625625688167" />
+    <state x="692" y="-837" width="823" height="554" key="find.popup/0.0.1440.920/143.-1080.1920.1040@143.-1080.1920.1040" timestamp="1625629713848" />
+    <state x="412" y="215" width="617" height="490" key="find.popup/0.0.1440.920@0.0.1440.920" timestamp="1624974286626" />
+    <state x="108" y="68" key="new project wizard" timestamp="1624974412544">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="108" y="68" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1624974412544" />
+    <state x="377" y="211" key="run.anything.popup" timestamp="1626624422137">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="377" y="211" key="run.anything.popup/0.0.1440.920/143.-1080.1920.1040@0.0.1440.920" timestamp="1625447821630" />
+    <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1626624422137" />
+    <state x="383" y="195" width="672" height="679" key="search.everywhere.popup" timestamp="1626679441073">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="679" key="search.everywhere.popup/0.0.1440.920/128.-1080.1920.1040@0.0.1440.920" timestamp="1626679441073" />
+    <state x="639" y="-860" width="896" height="767" key="search.everywhere.popup/0.0.1440.920/128.-1080.1920.1040@128.-1080.1920.1040" timestamp="1626405777342" />
+    <state x="654" y="-860" width="896" height="767" key="search.everywhere.popup/0.0.1440.920/143.-1080.1920.1040@143.-1080.1920.1040" timestamp="1625132234416" />
+    <state x="2671" y="220" width="896" height="767" key="search.everywhere.popup/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1625103135412" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1624979700102" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/5.9.0.202009080501-r/4089adec6f8bed14703c40aab3d77b946e075f22/org.eclipse.jgit-5.9.0.202009080501-r-sources.jar!/org/eclipse/jgit/lib/Repository.java</url>
+          <line>469</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/5.9.0.202009080501-r/4089adec6f8bed14703c40aab3d77b946e075f22/org.eclipse.jgit-5.9.0.202009080501-r-sources.jar!/org/eclipse/jgit/api/AddCommand.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
